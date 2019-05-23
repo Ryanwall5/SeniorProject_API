@@ -1,0 +1,17 @@
+C:\Users\thegr\OneDrive\Documents\Visual Studio 2017\SeniorProject\SA_API\SeniorProject.Api\bin\Debug\netcoreapp2.1\SeniorProject.Api.dll.config
+C:\Users\thegr\OneDrive\Documents\Visual Studio 2017\SeniorProject\SA_API\SeniorProject.Api\bin\Debug\netcoreapp2.1\SeniorProject.Api.deps.json
+C:\Users\thegr\OneDrive\Documents\Visual Studio 2017\SeniorProject\SA_API\SeniorProject.Api\bin\Debug\netcoreapp2.1\SeniorProject.Api.runtimeconfig.json
+C:\Users\thegr\OneDrive\Documents\Visual Studio 2017\SeniorProject\SA_API\SeniorProject.Api\bin\Debug\netcoreapp2.1\SeniorProject.Api.runtimeconfig.dev.json
+C:\Users\thegr\OneDrive\Documents\Visual Studio 2017\SeniorProject\SA_API\SeniorProject.Api\bin\Debug\netcoreapp2.1\SeniorProject.Api.dll
+C:\Users\thegr\OneDrive\Documents\Visual Studio 2017\SeniorProject\SA_API\SeniorProject.Api\bin\Debug\netcoreapp2.1\SeniorProject.Api.pdb
+C:\Users\thegr\OneDrive\Documents\Visual Studio 2017\SeniorProject\SA_API\SeniorProject.Api\obj\Debug\netcoreapp2.1\SeniorProject.Api.dll.config
+C:\Users\thegr\OneDrive\Documents\Visual Studio 2017\SeniorProject\SA_API\SeniorProject.Api\obj\Debug\netcoreapp2.1\SeniorProject.Api.csproj.CoreCompileInputs.cache
+C:\Users\thegr\OneDrive\Documents\Visual Studio 2017\SeniorProject\SA_API\SeniorProject.Api\obj\Debug\netcoreapp2.1\SeniorProject.Api.RazorAssemblyInfo.cache
+C:\Users\thegr\OneDrive\Documents\Visual Studio 2017\SeniorProject\SA_API\SeniorProject.Api\obj\Debug\netcoreapp2.1\SeniorProject.Api.RazorAssemblyInfo.cs
+C:\Users\thegr\OneDrive\Documents\Visual Studio 2017\SeniorProject\SA_API\SeniorProject.Api\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\thegr\OneDrive\Documents\Visual Studio 2017\SeniorProject\SA_API\SeniorProject.Api\obj\Debug\netcoreapp2.1\SeniorProject.Api.AssemblyInfoInputs.cache
+C:\Users\thegr\OneDrive\Documents\Visual Studio 2017\SeniorProject\SA_API\SeniorProject.Api\obj\Debug\netcoreapp2.1\SeniorProject.Api.AssemblyInfo.cs
+C:\Users\thegr\OneDrive\Documents\Visual Studio 2017\SeniorProject\SA_API\SeniorProject.Api\obj\Debug\netcoreapp2.1\SeniorProject.Api.RazorTargetAssemblyInfo.cache
+C:\Users\thegr\OneDrive\Documents\Visual Studio 2017\SeniorProject\SA_API\SeniorProject.Api\obj\Debug\netcoreapp2.1\SeniorProject.Api.dll
+C:\Users\thegr\OneDrive\Documents\Visual Studio 2017\SeniorProject\SA_API\SeniorProject.Api\obj\Debug\netcoreapp2.1\SeniorProject.Api.pdb
+C:\Users\thegr\OneDrive\Documents\Visual Studio 2017\SeniorProject\SA_API\SeniorProject.Api\obj\Debug\netcoreapp2.1\SeniorProject.Api.csprojAssemblyReference.cache
